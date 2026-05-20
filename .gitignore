@@ -1,0 +1,51 @@
+# Altium generated/output files
+History/
+Project Logs*/
+Project Outputs*/
+_Previews/
+
+*.log
+*.htm
+*.html
+*.PrjPcbStructure
+*.Dat
+*.REP
+*.RUL
+*.CSVPreview
+
+# Altium backup/autosave/temp files
+*.~*
+~$*
+*.tmp
+*.bak
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# VS Code local settings
+.vscode/
+
+# Firmware build outputs, for later
+build/
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+
+# STM32CubeIDE build outputs
+firmware/Debug/
+firmware/Release/
+firmware/build/
+
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.list
