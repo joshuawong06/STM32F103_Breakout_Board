@@ -2,7 +2,7 @@
 
 This was my first attempt at PCB design, which was a STM32 based breakout/development board. This project allowed me to explore the full workflow of embedded hardware development all the way from schematic capture to PCB layout to bring-up to writing/debugging firmware. 
 
-(Insert Photos)
+![PCB Layout](Figures/PCB_Layout.png)
 
 ## Features
 

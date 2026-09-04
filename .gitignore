@@ -1,23 +1,12 @@
-# Altium generated/output files
-History/
-Project Logs*/
-Project Outputs*/
-_Previews/
+# Altium
+Altium/**
+!Altium/
+!Altium/*.PcbDoc
+!Altium/*.PrjPcb
+!Altium/*.SchDoc
 
-*.log
-*.htm
-*.html
-*.PrjPcbStructure
-*.Dat
-*.REP
-*.RUL
-*.CSVPreview
 
-# Altium backup/autosave/temp files
-*.~*
-~$*
-*.tmp
-*.bak
+
 
 # Windows junk
 Thumbs.db
